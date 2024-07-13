@@ -11,4 +11,4 @@ Step-4 If Windows Defender hinders the application , Click on "More info" and th
 
 <h3>Note:-</h3>
 If you feel that existing levels are not sufficient to challenge your gaming skills then you can create more levels as per your choice. Also, the existing levels can be ammended.<br>
-Code of the level editor is attached named as "levelEditor/level_editor.py"
+Code of the level editor is attached, named as "levelEditor/level_editor.py"
